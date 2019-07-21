@@ -17,5 +17,8 @@ Some fields have interactions:
   <li>Double-clicking any printer field brings up a window with all known printers at the site.</li>
 </ul>
 <br><br>
-The Zip Code Search tab allows you to enter a Zip Code and find the nearest sites and techs. Techs are color coded the same as in the tech info box on the main tab. Site are color coded: green for Active sites, yellow for Inactive sites, red for Closed or Sold sites and light blue for planned sites.
+The Zip Code Search tab allows you to enter a Zip Code and find the nearest sites and techs. Techs are color coded the same as in the tech info box on the main tab. Site are color coded: green for Active sites, yellow for Inactive sites, red for Closed or Sold sites and light blue for Planned sites.
+
+<br><br><br>
+Stripped down versions of the server databases used by the tool have been included. These have had proprietary info removed and been compacted into three SQLite databases. These database files need to be in the same directory as the Python script for tht tool to operate.
 
